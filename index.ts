@@ -1,4 +1,4 @@
-let nome: string = "Anderson";
+let nome: string = "Anderson Kauer";
 let xp: number = 10001;
 let nivel: string;
 
